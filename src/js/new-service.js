@@ -1,3 +1,4 @@
+// Class
 const API_KEY = '35825697-636c53f6412cb6352dc9d0b60';
 const BASE_URL = 'https://pixabay.com/api/';
 
